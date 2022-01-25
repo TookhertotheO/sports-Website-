@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!Andrew sagoe>
+<!TEJ20>
+<!index.html>
+<html>
+<head>
+  <title>Basic Web Page</title>
+   <meta name="viewport" content="width=device-width,initial-scale=1" >
+
+  <link href='style.css' rel='stylesheet'>
+</head>
+<body>
+  <div class="tittle">
+  <h1> CHELSEA BEAT SPURS 4 TIMES IN A ROW</h1>
+  </div>
+  <div>
+  <img src="https://cdn.theathletic.com/app/uploads/2022/01/23161949/GettyImages-1366453708-scaled-e1642972881960-1024x683.jpg" alt="chelsea-beat-spurs">
+<p> It was a moment that made all of Chelsea’s problems fade away. Suddenly, nobody was worrying about a draining fixture list and a worrying run of results. Stamford Bridge had come alive and even Hakim Ziyech was smiling after opening the scoring for Chelsea, who had looked short of attacking inspiration before their mercurial winger gave them the lead with one of the goals of the season.
+This was Ziyech at his absolute best: cutting in from the right, the ball on his left foot and a shot bent wickedly into the far corner. Hugo Lloris could only watch helplessly as the ball flew past him and Chelsea, who have looked so tetchy and tired of late, could feel their season coming back to life.Ultimately there is no substitute for class and while Spurs fought hard, they had none of Chelsea’s individual quality; nobody capable of opening up a tight game quite as inventively as Ziyech, whose splendid goal at the start of the second half was followed by Thiago Silva settling the contest with a fine header from Mason Mount’s free-kick.For Conte, it was a reminder of the size of his task. For all that Spurs fared better than when Chelsea reached the Carabao Cup final at their expense, they were outplayed in the second half and their hopes of qualifying for the Champions League are likely to depend on reinforcements arriving before the window shuts.
+All eyes, then, are on Daniel Levy. This is a huge test for Tottenham’s chairman. Spurs, who remain seventh, must accept that Conte can only do so much. The Italian does not have enough talent at his disposal and although the north Londoners were competitive in the first half, with Harry Kane furious to have a goal ruled out at 0-0, their squad remains too mediocre.</p>
+</div>
+<h2> Kylian Mbappé to wait for after PSG’s Champions League tie with Real Madrid to decide on future</h2>
+<img src="https://image-cdn.onefootball.com/https%3A%2F%2Fwww.getfootballnewsfrance.com%2Fassets%2Fparis-saint-germain-v-manchester-city-group-a-uefa-champions-league-1-scaled.jpg?auto=format%2Ccompress&crop=faces&dpr=2&fit=crop&h=630&q=25&w=840&s=8c8e955d9dc8ce523f3dc872b9375ffb" alt="Mbappe">
+<p1>According to sources contacted by GFFN, Kylian Mbappé has not communicated any final decision to PSG or Real Madrid over the signing of a new or a pre-contract agreement with either of the clubs.
+
+Indeed, the 23-year-old Frenchman will not do so until the Champions’ League last 16 tie between the two sides is concluded before making a final call.
+
+With his contract expiring at the end of the season, it had been assumed that the player was likely to leave on a free transfer this summer but, as TF1 reported earlier this month, talks over a short term extension to his PSG stay have been initiated.</p1>
+
+</body>
